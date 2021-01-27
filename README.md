@@ -1,4 +1,4 @@
-# AWS SES Prometheus Exporter
+# AWS DynamoDB Prometheus Exporter
 
 A Prometheus metrics exporter for AWS DynamoDB.
 
